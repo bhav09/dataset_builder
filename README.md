@@ -16,4 +16,4 @@ My chrome version is 81 so the driver that is being uploaded is according to the
     To find the version of your chrome browser : chrome://settings/help
     Link to download the driver for chrome : https://chromedriver.chromium.org/downloads
 
-You will have to run App.py only .  
+You will have to run App.py only (make sure all the attachments(files) mentioned are present in the same directory) .  
