@@ -8,4 +8,9 @@ Have segregated the application into 2 files so that is becomes easy to understa
     3. App.py consists the code which is formed by concatening the above files.
     
  
+My chrome version is 81 so the driver that is being uploaded is according to the chrome version.
+
+    To find the version of your chrome browser : chrome://settings/help
+    Link to download the driver for chrome : https://chromedriver.chromium.org/downloads
+
 You will have to run App.py only .  
