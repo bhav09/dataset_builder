@@ -1,7 +1,7 @@
 # dataset_builder
-With this, one can create his own custom data set of image for the purpose of Image Classification.
+With this, you can create your own custom data set of image for the purpose of Image Classification.
 
-Have segregated the application into 2 files so that is becomes easy to understand the processes behind building this boulder.
+The application has been segregated into 2 files so that is becomes easy to understand the processes behind building this boulder.
 
 
 App.py is sum of frontend.py and backend.py with some slight changes.
